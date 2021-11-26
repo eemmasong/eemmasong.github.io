@@ -1,2 +1,323 @@
 ## FOR EMMA SONG
-@font-face{font-family:'Noto Sans';font-weight:400;font-style:normal;src:url("../fonts/Noto-Sans-regular/Noto-Sans-regular.eot");src:url("../fonts/Noto-Sans-regular/Noto-Sans-regular.eot?#iefix") format("embedded-opentype"),local("Noto Sans"),local("Noto-Sans-regular"),url("../fonts/Noto-Sans-regular/Noto-Sans-regular.woff2") format("woff2"),url("../fonts/Noto-Sans-regular/Noto-Sans-regular.woff") format("woff"),url("../fonts/Noto-Sans-regular/Noto-Sans-regular.ttf") format("truetype"),url("../fonts/Noto-Sans-regular/Noto-Sans-regular.svg#NotoSans") format("svg")}@font-face{font-family:'Noto Sans';font-weight:700;font-style:normal;src:url("../fonts/Noto-Sans-700/Noto-Sans-700.eot");src:url("../fonts/Noto-Sans-700/Noto-Sans-700.eot?#iefix") format("embedded-opentype"),local("Noto Sans Bold"),local("Noto-Sans-700"),url("../fonts/Noto-Sans-700/Noto-Sans-700.woff2") format("woff2"),url("../fonts/Noto-Sans-700/Noto-Sans-700.woff") format("woff"),url("../fonts/Noto-Sans-700/Noto-Sans-700.ttf") format("truetype"),url("../fonts/Noto-Sans-700/Noto-Sans-700.svg#NotoSans") format("svg")}@font-face{font-family:'Noto Sans';font-weight:400;font-style:italic;src:url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot");src:url("../fonts/Noto-Sans-italic/Noto-Sans-italic.eot?#iefix") format("embedded-opentype"),local("Noto Sans Italic"),local("Noto-Sans-italic"),url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff2") format("woff2"),url("../fonts/Noto-Sans-italic/Noto-Sans-italic.woff") format("woff"),url("../fonts/Noto-Sans-italic/Noto-Sans-italic.ttf") format("truetype"),url("../fonts/Noto-Sans-italic/Noto-Sans-italic.svg#NotoSans") format("svg")}@font-face{font-family:'Noto Sans';font-weight:700;font-style:italic;src:url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot");src:url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.eot?#iefix") format("embedded-opentype"),local("Noto Sans Bold Italic"),local("Noto-Sans-700italic"),url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff2") format("woff2"),url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.woff") format("woff"),url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf") format("truetype"),url("../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans") format("svg")}.highlight table td{padding:5px}.highlight table pre{margin:0}.highlight .cm{color:#999988;font-style:italic}.highlight .cp{color:#999999;font-weight:bold}.highlight .c1{color:#999988;font-style:italic}.highlight .cs{color:#999999;font-weight:bold;font-style:italic}.highlight .c,.highlight .cd{color:#999988;font-style:italic}.highlight .err{color:#a61717;background-color:#e3d2d2}.highlight .gd{color:#000000;background-color:#ffdddd}.highlight .ge{color:#000000;font-style:italic}.highlight .gr{color:#aa0000}.highlight .gh{color:#999999}.highlight .gi{color:#000000;background-color:#ddffdd}.highlight .go{color:#888888}.highlight .gp{color:#555555}.highlight .gs{font-weight:bold}.highlight .gu{color:#aaaaaa}.highlight .gt{color:#aa0000}.highlight .kc{color:#000000;font-weight:bold}.highlight .kd{color:#000000;font-weight:bold}.highlight .kn{color:#000000;font-weight:bold}.highlight .kp{color:#000000;font-weight:bold}.highlight .kr{color:#000000;font-weight:bold}.highlight .kt{color:#445588;font-weight:bold}.highlight .k,.highlight .kv{color:#000000;font-weight:bold}.highlight .mf{color:#009999}.highlight .mh{color:#009999}.highlight .il{color:#009999}.highlight .mi{color:#009999}.highlight .mo{color:#009999}.highlight .m,.highlight .mb,.highlight .mx{color:#009999}.highlight .sb{color:#d14}.highlight .sc{color:#d14}.highlight .sd{color:#d14}.highlight .s2{color:#d14}.highlight .se{color:#d14}.highlight .sh{color:#d14}.highlight .si{color:#d14}.highlight .sx{color:#d14}.highlight .sr{color:#009926}.highlight .s1{color:#d14}.highlight .ss{color:#990073}.highlight .s{color:#d14}.highlight .na{color:#008080}.highlight .bp{color:#999999}.highlight .nb{color:#0086B3}.highlight .nc{color:#445588;font-weight:bold}.highlight .no{color:#008080}.highlight .nd{color:#3c5d5d;font-weight:bold}.highlight .ni{color:#800080}.highlight .ne{color:#990000;font-weight:bold}.highlight .nf{color:#990000;font-weight:bold}.highlight .nl{color:#990000;font-weight:bold}.highlight .nn{color:#555555}.highlight .nt{color:#000080}.highlight .vc{color:#008080}.highlight .vg{color:#008080}.highlight .vi{color:#008080}.highlight .nv{color:#008080}.highlight .ow{color:#000000;font-weight:bold}.highlight .o{color:#000000;font-weight:bold}.highlight .w{color:#bbbbbb}.highlight{background-color:#f8f8f8}body{background-color:#fff;padding:50px;font:14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;color:#727272;font-weight:400}h1,h2,h3,h4,h5,h6{color:#222;margin:0 0 20px}p,ul,ol,table,pre,dl{margin:0 0 20px}h1,h2,h3{line-height:1.1}h1{font-size:28px}h2{color:#393939}h3,h4,h5,h6{color:#494949}a{color:#D88BAB;text-decoration:none}a:hover,a:focus{color:#f1d2e7;font-weight:bold}a small{font-size:11px;color:#777;margin-top:-0.3em;display:block}a:hover small{color:#f1d2e7}.wrapper{width:72em;margin:0 auto}blockquote{border-left:1px solid #e5e5e5;margin:0;padding:0 0 0 20px;font-style:italic}code,pre{font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;color:#333}pre{padding:8px 15px;background:#f8f8f8;border-radius:5px;border:1px solid #e5e5e5;overflow-x:auto}table{width:100%;border-collapse:collapse}th,td{text-align:left;padding:5px 10px;border-bottom:1px solid #e5e5e5}dt{color:#444;font-weight:700}th{color:#444}img{max-width:100%}header{width:270px;float:left;position:relative;margin-bottom:8em;-webkit-font-smoothing:subpixel-antialiased}ul.downloads{list-style:none;height:40px;padding:0;background:#f4f4f4;border-radius:5px;border:1px solid #e0e0e0;width:270px}.downloads li{width:89px;float:left;border-right:1px solid #e0e0e0;height:40px}.downloads li:first-child a{border-radius:5px 0 0 5px}.downloads li:last-child a{border-radius:0 5px 5px 0}.downloads a{line-height:1;font-size:11px;color:#676767;display:block;text-align:center;padding-top:6px;height:34px}.downloads a:hover,.downloads a:focus{color:#675C5C;font-weight:bold}.downloads ul a:active{background-color:#f0f0f0}strong{color:#222;font-weight:700}.downloads li+li+li{border-right:none;width:89px}.downloads a strong{font-size:14px;display:block;color:#222}section{width:640px;padding-left:350px;padding-bottom:50px}small{font-size:11px}hr{border:0;background:#e5e5e5;height:1px;margin:0 0 20px}footer{width:270px;position:relative;-webkit-font-smoothing:subpixel-antialiased}@media print, screen and (max-width: 1200px){section{width:auto !important}.wrapper{width:auto !important;margin:0 auto}}@media print, screen and (max-width: 960px){section{width:auto !important}div.wrapper{width:auto;margin:0}header,section,footer{float:none;position:static;width:auto}header{padding-right:320px}section{border:1px solid #e5e5e5;border-width:1px 0;padding:20px 0;margin:0 0 20px}header a small{display:inline}header ul{position:absolute;right:50px;top:52px}}@media print, screen and (max-width: 720px){body{word-wrap:normal}header{padding:0}header ul,header p.view{position:static}pre,code{word-wrap:normal}}@media print, screen and (max-width: 640px){body{padding:15px}.downloads{width:99%}.downloads li,.downloads li+li+li{width:33%}}@media print{body{padding:0.4in;font-size:12pt;color:#444}}@media screen and (max-device-width: 400px){.player-wrapper{width:95%}}
+/**
+ * libjass
+ *
+ * https://github.com/Arnavion/libjass
+ *
+ * Copyright 2013 Arnav Singh
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *    http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+import { valueOrDefault, BorderStyle } from "./misc";
+
+import { parse } from "../parser/parse";
+
+import { Color } from "../parts/index";
+
+import { Map } from "../utility/map";
+
+/**
+ * This class represents a single global style declaration in a {@link libjass.ASS} script. The styles can be obtained via the {@link libjass.ASS.styles} property.
+ *
+ * @param {!Map.<string, string>} template The template object that contains the style's properties. It is a map of the string values read from the ASS file.
+ * @param {string} template["Name"] The name of the style
+ * @param {string} template["Italic"] -1 if the style is italicized
+ * @param {string} template["Bold"] -1 if the style is bold
+ * @param {string} template["Underline"] -1 if the style is underlined
+ * @param {string} template["StrikeOut"] -1 if the style is struck-through
+ * @param {string} template["Fontname"] The name of the font
+ * @param {string} template["Fontsize"] The size of the font
+ * @param {string} template["ScaleX"] The horizontal scaling of the font
+ * @param {string} template["ScaleY"] The vertical scaling of the font
+ * @param {string} template["Spacing"] The letter spacing of the font
+ * @param {string} template["PrimaryColour"] The primary color
+ * @param {string} template["OutlineColour"] The outline color
+ * @param {string} template["BackColour"] The shadow color
+ * @param {string} template["Outline"] The outline thickness
+ * @param {string} template["Shadow"] The shadow depth
+ * @param {string} template["Alignment"] The alignment number
+ * @param {string} template["MarginL"] The left margin
+ * @param {string} template["MarginR"] The right margin
+ * @param {string} template["MarginV"] The vertical margin
+ */
+export class Style {
+	private _name: string;
+
+	private _italic: boolean;
+	private _bold: boolean;
+	private _underline: boolean;
+	private _strikeThrough: boolean;
+
+	private _fontName: string;
+	private _fontSize: number;
+
+	private _fontScaleX: number;
+	private _fontScaleY: number;
+
+	private _letterSpacing: number;
+
+	private _rotationZ: number;
+
+	private _primaryColor: Color;
+	private _secondaryColor: Color;
+	private _outlineColor: Color;
+	private _shadowColor: Color;
+
+	private _outlineThickness: number;
+	private _borderStyle: BorderStyle;
+
+	private _shadowDepth: number;
+
+	private _alignment: number;
+
+	private _marginLeft: number;
+	private _marginRight: number;
+	private _marginVertical: number;
+
+	constructor(template: Map<string, string>) {
+		this._name = template.get("Name");
+		if (this._name === undefined || this._name === null || this._name.constructor !== String) {
+			throw new Error("Style doesn't have a name.");
+		}
+
+		this._italic = template.get("Italic") === "-1";
+		this._bold = template.get("Bold") === "-1";
+		this._underline = template.get("Underline") === "-1";
+		this._strikeThrough = template.get("StrikeOut") === "-1";
+
+		this._fontName = template.get("Fontname");
+		this._fontSize = valueOrDefault(template, "Fontsize", parseFloat, value => !isNaN(value), "50");
+
+		this._fontScaleX = valueOrDefault(template, "ScaleX", parseFloat, value => !isNaN(value), "100") / 100;
+		this._fontScaleY = valueOrDefault(template, "ScaleY", parseFloat, value => !isNaN(value), "100") / 100;
+
+		this._letterSpacing = valueOrDefault(template, "Spacing", parseFloat, value => !isNaN(value), "0");
+
+		this._rotationZ = valueOrDefault(template, "Angle", parseFloat, value => !isNaN(value), "0");
+
+		this._primaryColor = valueOrDefault(template, "PrimaryColour", str => <Color>parse(str, "colorWithAlpha"), null, "&H0000FFFF");
+		this._secondaryColor = valueOrDefault(template, "SecondaryColour", str => <Color>parse(str, "colorWithAlpha"), null, "&H00000000");
+		this._outlineColor = valueOrDefault(template, "OutlineColour", str => <Color>parse(str, "colorWithAlpha"), null, "&H00000000");
+		this._shadowColor = valueOrDefault(template, "BackColour", str => <Color>parse(str, "colorWithAlpha"), null, "&H00000000");
+
+		this._outlineThickness = valueOrDefault(template, "Outline", parseFloat, value => !isNaN(value), "1");
+		this._borderStyle = valueOrDefault(template, "BorderStyle", parseInt, value => !isNaN(value), "1");
+
+		this._shadowDepth = valueOrDefault(template, "Shadow", parseFloat, value => !isNaN(value), "1");
+
+		this._alignment = valueOrDefault(template, "Alignment", parseInt, value => !isNaN(value), "2");
+
+		this._marginLeft = valueOrDefault(template, "MarginL", parseFloat, value => !isNaN(value), "80");
+		this._marginRight = valueOrDefault(template, "MarginR", parseFloat, value => !isNaN(value), "80");
+		this._marginVertical = valueOrDefault(template, "MarginV", parseFloat, value => !isNaN(value), "35");
+	}
+
+	/**
+	 * The name of this style.
+	 *
+	 * @type {string}
+	 */
+	get name(): string {
+		return this._name;
+	}
+
+	/**
+	 * Whether this style is italicized or not.
+	 *
+	 * @type {string}
+	 */
+	get italic(): boolean {
+		return this._italic;
+	}
+
+	/**
+	 * Whether this style is bold or not.
+	 *
+	 * @type {boolean}
+	 */
+	get bold(): boolean {
+		return this._bold;
+	}
+
+	/**
+	 * Whether this style is underlined or not.
+	 *
+	 * @type {boolean}
+	 */
+	get underline(): boolean {
+		return this._underline;
+	}
+
+	/**
+	 * Whether this style is struck-through or not.
+	 *
+	 * @type {boolean}
+	 */
+	get strikeThrough(): boolean {
+		return this._strikeThrough;
+	}
+
+	/**
+	 * The name of this style's font.
+	 *
+	 * @type {string}
+	 */
+	get fontName(): string {
+		return this._fontName;
+	}
+
+	/**
+	 * The size of this style's font.
+	 *
+	 * @type {number}
+	 */
+	get fontSize(): number {
+		return this._fontSize;
+	}
+
+	/**
+	 * The horizontal scaling of this style's font.
+	 *
+	 * @type {number}
+	 */
+	get fontScaleX(): number {
+		return this._fontScaleX;
+	}
+
+	/**
+	 * The vertical scaling of this style's font.
+	 *
+	 * @type {number}
+	 */
+	get fontScaleY(): number {
+		return this._fontScaleY;
+	}
+
+	/**
+	 * The letter spacing scaling of this style's font.
+	 *
+	 * @type {number}
+	 */
+	get letterSpacing(): number {
+		return this._letterSpacing;
+	}
+
+	/**
+	 * The default Z-rotation of this style.
+	 *
+	 * @type {number}
+	 */
+	get rotationZ(): number {
+		return this._rotationZ;
+	}
+
+	/**
+	 * The color of this style's font.
+	 *
+	 * @type {!libjass.parts.Color}
+	 */
+	get primaryColor(): Color {
+		return this._primaryColor;
+	}
+
+	/**
+	 * The alternate color of this style's font, used in karaoke.
+	 *
+	 * @type {!libjass.parts.Color}
+	 */
+	get secondaryColor(): Color {
+		return this._secondaryColor;
+	}
+
+	/**
+	 * The color of this style's outline.
+	 *
+	 * @type {!libjass.parts.Color}
+	 */
+	get outlineColor(): Color {
+		return this._outlineColor;
+	}
+
+	/**
+	 * The color of this style's shadow.
+	 *
+	 * @type {!libjass.parts.Color}
+	 */
+	get shadowColor(): Color {
+		return this._shadowColor;
+	}
+
+	/**
+	 * The thickness of this style's outline.
+	 *
+	 * @type {number}
+	 */
+	get outlineThickness(): number {
+		return this._outlineThickness;
+	}
+
+	/**
+	 * The border style of this style.
+	 *
+	 * @type {number}
+	 */
+	get borderStyle(): BorderStyle {
+		return this._borderStyle;
+	}
+
+	/**
+	 * The depth of this style's shadow.
+	 *
+	 * @type {number}
+	 */
+	get shadowDepth(): number {
+		return this._shadowDepth;
+	}
+
+	/**
+	 * The alignment of dialogues of this style.
+	 *
+	 * @type {number}
+	 */
+	get alignment(): number {
+		return this._alignment;
+	}
+
+	/**
+	 * The left margin of dialogues of this style.
+	 *
+	 * @type {number}
+	 */
+	get marginLeft(): number {
+		return this._marginLeft;
+	}
+
+	/**
+	 * The right margin of dialogues of this style.
+	 *
+	 * @type {number}
+	 */
+	get marginRight(): number {
+		return this._marginRight;
+	}
+
+	/**
+	 * The vertical margin of dialogues of this style.
+	 *
+	 * @type {number}
+	 */
+	get marginVertical(): number {
+		return this._marginVertical;
+	}
+}
