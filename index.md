@@ -2,32 +2,54 @@
 
 This website is created to make it easier for Emma fans to watch Emma contents. I’ll do my best to to add more raw and subbed stuff.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eemmasong/eemmasong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+.github/ISSUE_TEMPLATE
+Update issue templates
+_includes
+Fix site title attribute logic (#121)
+_layouts
+_posts
+Add html-proofer script and related fixes
+css/font-awesome
+Colors can now be set in config file.
+img
+new design
+js
+Update contact_me.js
+mail
+Disable form mail if spambot fills hidden field
+2 years ago
+.gitignore
+added '.jekyll-cache'
+2 years ago
+.travis.yml
+Update Travis script
+2 years ago
+Gemfile
+Update Gemfile
+4 years ago
+LICENCE
+Fixes #85
+4 years ago
+README.md
+Update README.md
+2 years ago
+Rakefile
+Add html-proofer script and related fixes
+2 years ago
+_config.yml
+Add html-proofer script and related fixes
+2 years ago
+feed.xml
+Updated feed.xml
+5 years ago
+freelancer-theme-jekyll.gemspec
+Add html-proofer script and related fixes
+2 years ago
+index.html
+Getting rid of unnecessary posts loop
+7 years ago
+screenshot.png
+add screenshot
+7 years ago
+style.css
+Some corrections
