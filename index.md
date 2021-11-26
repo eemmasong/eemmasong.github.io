@@ -1,10 +1,6 @@
-## Welcome to GitHub Pages
+## FOR EMMA SONG
 
-You can use the [editor on GitHub](https://github.com/eemmasong/eemmasong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+This website is created to make it easier for Emma fans to watch Emma contents. I’ll do my best to to add more raw and subbed stuff.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
