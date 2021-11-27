@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## FOR EMMA SONG🐶
 
-You can use the [editor on GitHub](https://github.com/eemmasong/eemmasong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website is made for easy access to EMMA's content. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
