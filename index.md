@@ -1,8 +1,8 @@
-## FOR EMMA SONG🐶
 
-This website is made for easy access to EMMA's content. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is made for easy access to EMMA's content. I’ll do my best to update and add more raw or subbed content. 
+
+Thank you for supporting EMMA SONG~~~
 
 ### Markdown
 
