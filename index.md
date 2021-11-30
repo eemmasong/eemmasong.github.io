@@ -1,7 +1,7 @@
 
 
 Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
-
+This website is maintained by [@emmaltose](https://twitter.com/home). If there are any issues feel free to DM me !! :]
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
