@@ -1,4 +1,4 @@
-
+<html>
 <head>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
   </head>  
@@ -31,7 +31,7 @@
 <br>
 <br>
   
-## STREET WOMEN FIGHTER<hr>
+## STREET WOMEN FIGHTER 
 
 <p>**<FONT COLOR="#F76AC3">Episodes</FONT>**</p>
 
@@ -41,7 +41,7 @@
 <br>
 
  
-## PHOTOSHOOTS<hr>
+## PHOTOSHOOTS
 
 <p>**<FONT COLOR="#F76AC3">Posts</FONT>**</p>
 
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## Instagram Live<hr>
+## Instagram Live
 
 <p>**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)</p>
 
