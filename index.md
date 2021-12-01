@@ -52,6 +52,18 @@ ________________________________________________________________________________
 
 <br>
 <br>
+
+## Instagram Live
+ ______________________________________________________________________________________
+
+**211001 ft. Kard's Somin <FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**
+
+**211027 ft. Rozalin <FONT COLOR="#F76AC3">SUBBED</FONT>**
+
+**211124 ft. Yell <FONT COLOR="#F76AC3">SUBBED</FONT>**
+
+<br>
+<br>
   
      </head>     
             
