@@ -1,18 +1,18 @@
 <html>
 <head>
-    <link rel="stylesheet" href="style.css>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
 </head>       
         
         <br>
         <p> EMMA SONG's SNS:
-     <i class="fab fa-instagram"></i> |  | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
+            <br>
+     <i class="fab fa-instagram"></i> | <i class="fab fa-twitter"></i> | <i class="fab fa-tiktok"></i>
 <br>
 <br>
 <br>
       
       
-
+<body>
 Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
 
 This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
@@ -29,7 +29,8 @@ ________________________________________________________________________________
   
 **<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**
 
-   
+<br>
+<br>
   
 ## STREET WOMEN FIGHTER
  ______________________________________________________________________________________
@@ -38,7 +39,8 @@ ________________________________________________________________________________
 
 **<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
 
-
+<br>
+<br>
 
  
 ## PHOTOSHOOTS
@@ -48,7 +50,10 @@ ________________________________________________________________________________
 
 **<FONT COLOR="#F76AC3">Interviews</FONT>**
 
-
+<br>
+<br>
+            </body>
+            
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
