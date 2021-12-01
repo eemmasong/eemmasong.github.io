@@ -13,29 +13,29 @@
       
       
   
-Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
+<p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
 
-This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
+<p>This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :] </p>
 
-Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~    
+<p>Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~</p> 
         
 <br>
 <br>
 
 ## CHOREOGRAPHY DANCE VIDEO<hr>
 
-**<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**
+<p>**<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**</p>
   
-**<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**
+<p>**<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**</p>
 
 <br>
 <br>
   
 ## STREET WOMEN FIGHTER<hr>
 
-**<FONT COLOR="#F76AC3">Episodes</FONT>**
+<p>**<FONT COLOR="#F76AC3">Episodes</FONT>**</p>
 
-**<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
+<p>**<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**</p>
 
 <br>
 <br>
@@ -43,20 +43,20 @@ Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
  
 ## PHOTOSHOOTS<hr>
 
-**<FONT COLOR="#F76AC3">Posts</FONT>**
+<p>**<FONT COLOR="#F76AC3">Posts</FONT>**</p>
 
-**<FONT COLOR="#F76AC3">Interviews</FONT>**
+<p>**<FONT COLOR="#F76AC3">Interviews</FONT>**</p>
 
 <br>
 <br>
 
 ## Instagram Live<hr>
 
-**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)
+<p>**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)</p>
 
-**211027 ft. Rozalin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)
+<p>**211027 ft. Rozalin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)</p>
 
-**211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)**
+<p>**211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)**</p>
 
 <br>
 <br>
