@@ -1,30 +1,37 @@
-## Welcome to GitHub Pages
+Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
 
-You can use the [editor on GitHub](https://github.com/eemmasong/eemmasong.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## CHOREOGRAPHY DANCE VIDEO
+______________________________________________________________________________________
 
-# Header 1
-## Header 2
-### Header 3
+**<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**
+  
+**<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**
 
-- Bulleted
-- List
+   
+  
+## STREET WOMEN FIGHTER
+ ______________________________________________________________________________________
 
-1. Numbered
-2. List
+**<FONT COLOR="#F76AC3">Episodes</FONT>**
 
-**Bold** and _Italic_ and `Code` text
+**<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
 
-[Link](url) and ![Image](src)
-```
+
+
+ 
+## PHOTOSHOOTS
+ ______________________________________________________________________________________
+
+**<FONT COLOR="#F76AC3">Posts</FONT>**
+
+**<FONT COLOR="#F76AC3">Interviews</FONT>**
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
