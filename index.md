@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-      
+ </html>   
 
   
 <p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
@@ -22,16 +22,16 @@
 <br>
 <br>
 
-## CHOREOGRAPHY DANCE VIDEO<hr>
+## CHOREOGRAPHY DANCE VIDEO <hr>
 
-<p>**<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**</p>
+<p> ** <FONT COLOR="#F76AC3">Emma Song Choreography</FONT> ** </p>
   
-<p>**<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**</p>
+<p> ** <FONT COLOR="#F76AC3">Featuring Emma Song</FONT> ** </p>
 
 <br>
 <br>
   
-## STREET WOMEN FIGHTER<hr>
+## STREET WOMEN FIGHTER <hr>
 
 <p>**<FONT COLOR="#F76AC3">Episodes</FONT>**</p>
 
