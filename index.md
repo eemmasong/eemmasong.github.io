@@ -4,12 +4,14 @@ Hi everyone~ this website is specially created for easy access to Emma's content
 
 This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
 
-Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
+<p>Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~</p>
+
+
 
 ## CHOREOGRAPHY DANCE VIDEO
 ______________________________________________________________________________________
 
-<FONT COLOR="#F76AC3"> **Emma Song Choreography** </FONT>
+** <FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**
   
 #### Featuring Emma Song
 
