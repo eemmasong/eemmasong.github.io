@@ -24,13 +24,15 @@ ________________________________________________________________________________
 
 **<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
 
+
+
  
-## PHOTOSHOOTS
+<p>## PHOTOSHOOTS
  ______________________________________________________________________________________
 
 **<FONT COLOR="#F76AC3">Posts</FONT>**
 
-**<FONT COLOR="#F76AC3">Interviews</FONT>**
+**<FONT COLOR="#F76AC3">Interviews</FONT>**</p> 
 
 
 
