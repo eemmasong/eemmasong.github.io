@@ -60,7 +60,7 @@ ________________________________________________________________________________
 
 **211027 ft. Rozalin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)
 
-**211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)
+**211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)**
 
 <br>
 <br>
