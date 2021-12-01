@@ -4,7 +4,7 @@ Hi everyone~ this website is specially created for easy access to Emma's content
 
 This website is maintained by [@emmaltose](https://twitter.com/home). If there are any issues feel free to DM me !! :]
 
-Thank you all for supporting <FONT COLOR="PINK">Emma Song</FONT>~~
+Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
  
  
  
