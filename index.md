@@ -11,7 +11,7 @@ This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If th
 ## CHOREOGRAPHY DANCE VIDEO
 ______________________________________________________________________________________
 
-** <FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**
+**<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**
   
 #### Featuring Emma Song
 
