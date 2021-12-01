@@ -4,7 +4,7 @@ Hi everyone~ this website is specially created for easy access to Emma's content
 
 This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
 
-<p>Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~</p>
+Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
 
 
 
@@ -13,15 +13,17 @@ ________________________________________________________________________________
 
 **<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>**
   
-#### Featuring Emma Song
+**<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**
 
    
   
 ## STREET WOMEN FIGHTER
  ______________________________________________________________________________________
 
- #### Episodes
- #### WANT Special Episode
+**<FONT COLOR="#F76AC3">Episodes</FONT>**
+
+**<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
+
  
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
