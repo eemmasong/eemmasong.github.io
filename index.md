@@ -1,4 +1,4 @@
-<header>
+         <header>
         
           <img src="/main/assets/img/sakuonethestory.jpg" alt="Logo">
         
@@ -10,7 +10,7 @@
         <br>
        
         
- </header>
+    </header>
       
       
 
