@@ -4,9 +4,7 @@
         
         <br>
         <p> EMMA SONG's SNS:
-      <li>
-					<a href="https://www.instagram.com/bts.bighitofficial/" target="_blank" title="Instagram : Open in a New Window" class="insta"></a>
-				</li>| <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
+      <i class="fab fa-instagram"></i>| <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
         <br>
         <br>
         <br>
