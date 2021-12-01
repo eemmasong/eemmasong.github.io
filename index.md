@@ -1,4 +1,5 @@
-      <h1><a href="https://for319.github.io/main/">🌸 for 319.</a></h1>
+     <header>
+        <h1><a href="https://for319.github.io/main/">🌸 for 319.</a></h1>
         
         
           <img src="/main/assets/img/sakuonethestory.jpg" alt="Logo">
@@ -11,8 +12,10 @@
         <br>
        
         
+      </header>
       
       
+
 Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
 
 This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
