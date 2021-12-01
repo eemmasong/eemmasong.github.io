@@ -31,7 +31,7 @@
 <br>
 <br>
   
-## STREET WOMEN FIGHTER 
+## STREET WOMEN FIGHTER<hr>
 
 <p>**<FONT COLOR="#F76AC3">Episodes</FONT>**</p>
 
@@ -41,7 +41,7 @@
 <br>
 
  
-## PHOTOSHOOTS
+## PHOTOSHOOTS<hr>
 
 <p>**<FONT COLOR="#F76AC3">Posts</FONT>**</p>
 
@@ -50,7 +50,7 @@
 <br>
 <br>
 
-## Instagram Live
+## Instagram Live<hr>
 
 <p>**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)</p>
 
