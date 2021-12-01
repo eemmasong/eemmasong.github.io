@@ -1,7 +1,7 @@
 <html>
 <head>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
-</head>       
+     
         
         <br>
         <p> EMMA SONG's SNS:
@@ -12,7 +12,7 @@
 <br>
       
       
-   <body>
+  
 Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
 
 This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
@@ -52,7 +52,8 @@ ________________________________________________________________________________
 
 <br>
 <br>
-           </body>
+  
+     </head>     
             
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
