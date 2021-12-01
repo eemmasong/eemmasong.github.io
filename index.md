@@ -31,8 +31,7 @@ Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
 <br>
 <br>
   
-## STREET WOMEN FIGHTER
- ______________________________________________________________________________________
+## STREET WOMEN FIGHTER<hr>
 
 **<FONT COLOR="#F76AC3">Episodes</FONT>**
 
@@ -42,8 +41,7 @@ Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
 <br>
 
  
-## PHOTOSHOOTS
- ______________________________________________________________________________________
+## PHOTOSHOOTS<hr>
 
 **<FONT COLOR="#F76AC3">Posts</FONT>**
 
@@ -52,8 +50,7 @@ Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~
 <br>
 <br>
 
-## Instagram Live
- ______________________________________________________________________________________
+## Instagram Live<hr>
 
 **211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)
 
