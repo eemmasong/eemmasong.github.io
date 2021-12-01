@@ -1,4 +1,4 @@
-<html>
+
 <head>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
   </head>  
@@ -11,7 +11,7 @@
 <br>
 <br>
       
-</html> 
+
   
 <p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
 
