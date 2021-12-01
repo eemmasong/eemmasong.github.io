@@ -4,7 +4,7 @@
         
         <br>
         <p> EMMA SONG's SNS:
-          <br><a href="https://twitter.com/Eemmas0ng">Twitter</a> | <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
+         <a href="https://twitter.com/Eemmas0ng" target="_blank" title="Twitter (Member) : Open in a New Window" class="twitter"></a> | <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
         <br>
         <br>
         <br>
