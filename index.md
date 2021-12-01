@@ -1,10 +1,11 @@
          <header>
-        <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
-          <img src="/main/assets/img/sakuonethestory.jpg" alt="Logo">
+    <head>
+                  <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
+    </head>       
         
         <br>
         <p> EMMA SONG's SNS:
-     <i class="fab fa-instagram"></i> | <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
+     <i class="fab fa-instagram"></i> | <i class="fab fa-twitter"></i> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
         <br>
         <br>
         <br>
