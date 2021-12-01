@@ -1,3 +1,19 @@
+<header>
+        <h1><a href="https://for319.github.io/main/">🌸 for 319.</a></h1>
+        
+        
+          <img src="/main/assets/img/sakuonethestory.jpg" alt="Logo">
+        
+        <br>
+        <p>Follow Miyawaki Sakura's SNS:
+          <br><a href="https://twitter.com/39saku_chan">Twitter</a> | <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://www.youtube.com/channel/UC9Z0cgZPBa2szfJcrJdfYvA">YouTube</a><br><a href="https://7gogo.jp/miyawaki-sakura">755</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
+        <br>
+        <br>
+        <br>
+       
+        
+      </header>
+      
 Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !!
 
 This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :]
