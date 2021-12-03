@@ -5,7 +5,7 @@
  
 <p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
 
-<p>This website is maintained by [@emmaltose](https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :] </p>
+<p>This website is maintained by [@emmaltose] (https://twitter.com/emmaltose). If there are any issues feel free to DM me !! :] </p>
 
 <p>Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~</p> 
         
