@@ -24,18 +24,18 @@
 
 ## CHOREOGRAPHY DANCE VIDEO <hr>
 
-<p> ** <FONT COLOR="#F76AC3">Emma Song Choreography</FONT> ** </p>
+** <FONT COLOR="#F76AC3">Emma Song Choreography</FONT> **
   
-<p> ** <FONT COLOR="#F76AC3">Featuring Emma Song</FONT> ** </p>
+** <FONT COLOR="#F76AC3">Featuring Emma Song</FONT> **
 
 <br>
 <br>
   
 ## STREET WOMEN FIGHTER <hr>
 
-<p>**<FONT COLOR="#F76AC3">Episodes</FONT>**</p>
+**<FONT COLOR="#F76AC3">Episodes</FONT>**
 
-<p>**<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**</p>
+**<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
 
 <br>
 <br>
@@ -43,20 +43,20 @@
  
 ## PHOTOSHOOTS<hr>
 
-<p>**<FONT COLOR="#F76AC3">Posts</FONT>**</p>
+**<FONT COLOR="#F76AC3">Posts</FONT>**
 
-<p>**<FONT COLOR="#F76AC3">Interviews</FONT>**</p>
+**<FONT COLOR="#F76AC3">Interviews</FONT>**
 
 <br>
 <br>
 
 ## Instagram Live<hr>
 
-<p>**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)</p>
+**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)
 
-<p>**211027 ft. Rozalin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)</p>
+**211027 ft. Rozalin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**)
 
-<p>**211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)**</p>
+**211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)**
 
 <br>
 
