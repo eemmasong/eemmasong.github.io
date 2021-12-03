@@ -1,4 +1,4 @@
-     <html>
+   <html>
   <head>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
   
@@ -40,6 +40,8 @@
 **<FONT COLOR="#F76AC3">Episodes</FONT>** 
 
 **<FONT COLOR="#F76AC3">WANT Special Episode</FONT>**
+
+**<FONT COLOR="#F76AC3">Gala Talk Show</FONT>**
 
 <br>
 <br>
