@@ -1,7 +1,9 @@
  
- 
-    <head>  <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> </head>
-  
+<head>
+ <link rel+"stylesheet" href='style.css"> 
+ <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
+</head>
+                              
         
         <br>
         <p> EMMA SONG's SNS:
