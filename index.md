@@ -6,7 +6,7 @@
         <br>
         <p> EMMA SONG's SNS:
             <br>
-     <i class="fab fa-instagram"></i> | <i class="fab fa-twitter"></i> | <i class="fab fa-tiktok"></i> 
+     <i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/emmaltose"><i class="fab fa-twitter"></i></a> | <i class="fab fa-tiktok"></i> 
              
        </head>
      </html>
