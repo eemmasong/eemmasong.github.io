@@ -1,5 +1,5 @@
 
-<head>
+      <head>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
   
         
@@ -8,7 +8,7 @@
             <br>
      <i class="fab fa-instagram"></i> | <i class="fab fa-twitter"></i> | <i class="fab fa-tiktok"></i> 
              
-</head>
+       </head>
 
 <br>
 <br>
