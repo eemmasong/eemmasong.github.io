@@ -1,6 +1,5 @@
  
-  <head>
-    <h1>
+ 
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
   
         
@@ -9,8 +8,7 @@
             <br>
      <i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <i class="fab fa-tiktok"></i> 
              
-       </head>
-     </h1> 
+   
       
 <br>
 <br>
