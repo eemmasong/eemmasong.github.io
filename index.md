@@ -16,7 +16,7 @@
 <br>
 <br>
  
-     <body> 
+  <body> 
 <p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
 
 <p>This website is maintained by <a target="_blank" href="https://twitter.com/emmaltose">@emmaltose</a> If there are any issues feel free to DM me !! :] </p>
@@ -68,7 +68,7 @@
 
 <br>
 
-    </body>
+ </body>
 
 
   
