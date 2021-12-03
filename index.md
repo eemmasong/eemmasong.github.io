@@ -1,12 +1,4 @@
 
-<head>
-     <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
-  
-        
-        <br>
-        <p> EMMA SONG's SNS:
-            <br>
-     <i class="fab fa-instagram"></i> | <i class="fab fa-twitter"></i> | <i class="fab fa-tiktok"></i>
 <br>
 <br>
 <br>
@@ -21,7 +13,7 @@
 <br>
 
 
-## CHOREOGRAPHY DANCE VIDEO <hr>
+## CHOREOGRAPHY DANCE VIDEO
 
 **<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>** <p>
   
