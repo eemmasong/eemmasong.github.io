@@ -23,7 +23,7 @@
 
 ## CHOREOGRAPHY DANCE VIDEO <hr>
 
-** <FONT COLOR="#F76AC3">Emma Song Choreography</FONT> ** <p>
+<p> **<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>** </p>
   
 ** <FONT COLOR="#F76AC3">Featuring Emma Song</FONT> **
 
