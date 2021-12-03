@@ -1,8 +1,10 @@
  
-<head>
+     <head>
  
- <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
-</head>
+ <script>
+ src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous">
+ </script> 
+    </head>
                               
         
         <br>
@@ -16,7 +18,7 @@
 <br>
 <br>
  
-  <body> 
+ 
 <p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
 
 <p>This website is maintained by <a target="_blank" href="https://twitter.com/emmaltose">@emmaltose</a> If there are any issues feel free to DM me !! :] </p>
@@ -68,7 +70,7 @@
 
 <br>
 
- </body>
+
 
 
   
