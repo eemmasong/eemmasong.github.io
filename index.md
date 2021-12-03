@@ -1,4 +1,4 @@
-<html>
+
 <head>
      <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script>
   
@@ -30,7 +30,8 @@
 <br>
 <br>
   
-## STREET WOMAN FIGHTER
+## STREET WOMAN FIGHTER <hr>
+    
 
 **<FONT COLOR="#F76AC3">Episodes</FONT>** <p>
 
