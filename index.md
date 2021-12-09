@@ -37,11 +37,14 @@
   
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">STREET WOMAN FIGHTER</h2>
     <hr>
-    <h3><a href="./pages/48g theater performance/akb48/akb48.html"> <FONT COLOR="#F76AC3"> Episode
+   <h3><a href="./pages/48g theater performance/akb48/akb48.html">Episodes</a></h3>
+
      
-     <h3><a href="./pages/48g theater performance/akb48/akb48.html"> <FONT COLOR="#F76AC3"> WANT Special Episode
+  <h3><a href="./pages/48g theater performance/akb48/akb48.html">WAMT Special Episode</a></h3>
+
       
-      <h3><a href="./pages/48g theater performance/akb48/akb48.html"> <FONT COLOR="#F76AC3"> Gala Talk Show
+ <h3><a href="./pages/48g theater performance/akb48/akb48.html">Gala Talk Show</a></h3>
+
 
 <br>
 <br>
