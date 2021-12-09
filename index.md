@@ -1,12 +1,5 @@
 <head>
- <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
- 
-                                                            
-                           
-        <br>
-<p> EMMA SONG's SNS:
- 
-   <div class="containter">
+
      
 
      
