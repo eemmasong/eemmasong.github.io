@@ -57,11 +57,11 @@
 
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">INSTAGRAM LIVES</h2>
 
-<h3> 211001 ft. Kard's Somin (<a href="./pages/48g theater performance/akb48/akb48.html">RAW</a>/<a href="./pages/48g theater performance/akb48/akb48.html">SUBBED</a>)
+<h3> 211001 ft. Kard's Somin (<a href="./pages/48g theater performance/akb48/akb48.html">Raw</a>/<a href="./pages/48g theater performance/akb48/akb48.html">Subbed</a>)
  
- <h3> 211027 ft. Rozalin (<a href="./pages/48g theater performance/akb48/akb48.html">RAW</a>/<a href="./pages/48g theater performance/akb48/akb48.html">SUBBED</a>)
+ <h3> 211027 ft. Rozalin (<a href="./pages/48g theater performance/akb48/akb48.html">Raw</a>/<a href="./pages/48g theater performance/akb48/akb48.html">Subbed</a>)
  
- <h3> 211124 ft. Yell (<a href="./pages/48g theater performance/akb48/akb48.html">RAW</a>/<a href="./pages/48g theater performance/akb48/akb48.html">SUBBED</a>)
+ <h3> 211124 ft. Yell (<a href="./pages/48g theater performance/akb48/akb48.html">Raw</a>/<a href="./pages/48g theater performance/akb48/akb48.html">Subbed</a>)
 
 <br>
 
