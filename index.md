@@ -1,29 +1,14 @@
-<header>
-        <h1><a href="https://for319.github.io/main/">🌸 for 319.</a></h1>
-        
-        
-          <img src="/main/assets/img/sakuonethestory.jpg" alt="Logo">
-        
-        <br>
-        <p>Follow Miyawaki Sakura's SNS:
-          <br><a href="https://twitter.com/39saku_chan">Twitter</a> | <a href="https://www.instagram.com/39saku_chan">Instagram</a> | <a href="https://www.youtube.com/channel/UC9Z0cgZPBa2szfJcrJdfYvA">YouTube</a><br><a href="https://7gogo.jp/miyawaki-sakura">755</a> | <a href="https://t.co/dN0C1yFJWA?amp=1">TikTok</a> </p>
-        <br>
-        <br>
-        <br>
-       
-        
-      </header>
-      
+
 <head>
  <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
                                                             
-                               
-        
-<br>
+                           
+        <br>
 <p> EMMA SONG's SNS:
  
    <div class="containter">
       <i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <i class="fab fa-tiktok"></i> 
+           </p>
      
 
            </div>
