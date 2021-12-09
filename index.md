@@ -8,11 +8,6 @@
  
    <div class="containter">
      <i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <i class="fab fa-tiktok"></i>
-     
-
-     
-
-     
            
         
 <br>
@@ -42,7 +37,7 @@
   
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">STREET WOMAN FIGHTER</h2>
     <hr>
-<h3><a href="./pages/48g theater performance/akb48/akb48.html"><FONT COLOR="#F76AC3">Episodes</a></h3> 
+    <h3><a href="./pages/48g theater performance/akb48/akb48.html"><FONT COLOR="#F76AC3">Episodes</h3>
 
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">WANT Special Episode</a></h3>
 
