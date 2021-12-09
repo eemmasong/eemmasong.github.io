@@ -31,7 +31,7 @@
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">CHOREOGRAPHY DANCE VIDEOS</h2>
     <hr>
  
-<h3><a href="./pages/48g theater performance/akb48/akb48.html">Emma Song Choreography</a></h3>
+<h3><a href="./pages/emma song choreo/.html">Emma Song Choreography</a></h3>
 
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">Other Dance Videos</a></h3>
 
