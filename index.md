@@ -8,6 +8,7 @@
  
    <div class="containter">
      <a target="_blank" href="https://instagram.com/eemmasong?utm_medium=copy_link"><i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <a target="_blank" href="https://vt.tiktok.com/ZSey4BR51/"><i class="fab fa-tiktok"></i>
+      
       </div>
       
 <br>
@@ -29,7 +30,7 @@
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">CHOREOGRAPHY DANCE VIDEOS</h2>
     <hr>
  
-<p><font color="#FF8FDE"> <h3><a href="./pages/48g theater performance/akb48/akb48.html">Emma Song Choreography</a></h3>
+<h3><a href="./pages/48g theater performance/akb48/akb48.html">Emma Song Choreography</a></h3>
 
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">Other Dance Videos</a></h3>
 
@@ -71,12 +72,3 @@
 
   
             
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eemmasong/eemmasong.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
