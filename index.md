@@ -1,5 +1,13 @@
 <head>
-
+ <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
+ 
+                                                            
+                           
+        <br>
+<p> EMMA SONG's SNS:
+ 
+   <div class="containter">
+     <i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <i class="fab fa-tiktok"></i>
      
 
      
@@ -23,7 +31,7 @@
 
  
 
-## CHOREOGRAPHY DANCE VIDEO
+<h2 id="CHOREOGRAPHY DANCE VIDEOS">48G Theater Performance</h2>
 
 **<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>** 
   
