@@ -7,11 +7,11 @@
  
    <div class="containter">
       <i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <i class="fab fa-tiktok"></i>
-    </p>
+
      
 
            </div>
-           </head>    
+           
         
 <br>
 <br>
