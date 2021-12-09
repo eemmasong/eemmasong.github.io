@@ -32,10 +32,10 @@
  
 
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">CHOREOGRAPHY DANCE VIDEOS</h2>
-
-**<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>** 
+    <hr>
+<h3><a href="./pages/48g theater performance/akb48/akb48.html">Emma Song Choreography</a></h3>
   
-**<FONT COLOR="#F76AC3">Other Dance Videos</FONT>**
+<h3><a href="./pages/48g theater performance/akb48/akb48.html">Other Dance Videos</a></h3>
 
 <br>
 <br>
