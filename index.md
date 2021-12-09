@@ -28,8 +28,9 @@
 
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">CHOREOGRAPHY DANCE VIDEOS</h2>
     <hr>
+ <p><font color="#FF8FDE">
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">Emma Song Choreography</a></h3>
-  
+  </font>
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">Other Dance Videos</a></h3>
 
 <br>
