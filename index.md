@@ -1,19 +1,4 @@
-<header>
-        <h1><a href="https://eemmasong.github.io/">Song Haemin</a></h1>
 
-        
-
-        <p></p>
-
-        
-
-        
-        <p class="view"><a href="https://github.com/eemmasong">View My GitHub Profile</a></p>
-        
-
-        
-      </header>
-      
  <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
  
                                                             
