@@ -52,7 +52,7 @@
 <br>
 
  
-## PHOTOSHOOTS<hr>
+ <h2 id="CHOREOGRAPHY DANCE VIDEOS">PHOTOSHOOTS</h2>
 
 **<FONT COLOR="#F76AC3">Posts</FONT>** 
 
@@ -61,7 +61,7 @@
 <br>
 <br>
 
-## Instagram Live<hr>
+<h2 id="CHOREOGRAPHY DANCE VIDEOS">INSTAGRAM LIVES</h2>
 
 **211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**) 
 
