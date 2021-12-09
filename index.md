@@ -39,7 +39,7 @@
     <hr>
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">Episodes</a></h3>
      
-<h3><a href="./pages/48g theater performance/akb48/akb48.html">WAMT Special Episode</a></h3>
+<h3><a href="./pages/48g theater performance/akb48/akb48.html">WANT Special Episode</a></h3>
     
 <h3><a href="./pages/48g theater performance/akb48/akb48.html">Gala Talk Show</a></h3>
 
@@ -57,8 +57,7 @@
 
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">INSTAGRAM LIVES</h2>
 
-**211001 ft. Kard's Somin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**) 
-
+**211001 ft. Kard's Somin** (<h3><a href="./pages/48g theater performance/akb48/akb48.html">RAW</a></h3>/<h3><a href="./pages/48g theater performance/akb48/akb48.html">SUBBED</a></h3>)
 **211027 ft. Rozalin (<FONT COLOR="#F76AC3">RAW</FONT>/<FONT COLOR="#F76AC3">SUBBED</FONT>**) 
 
 **211124 ft. Yell (<FONT COLOR="#F76AC3">RAW</FONT>)**
