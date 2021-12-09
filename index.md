@@ -1,4 +1,31 @@
 
+
+ <script src="https://kit.fontawesome.com/97c538f919.js" crossorigin="anonymous"></script> 
+ 
+                                                            
+                           
+        
+<p> EMMA SONG's SNS:
+ 
+   <div class="containter">
+     <a target="_blank" href="https://instagram.com/eemmasong?utm_medium=copy_link"><i class="fab fa-instagram"></i> | <a target="_blank" href="https://twitter.com/Eemmas0ng"><i class="fab fa-twitter"></i></a> | <a target="_blank" href="https://vt.tiktok.com/ZSey4BR51/"><i class="fab fa-tiktok"></i> </a>
+      
+
+      
+<br>
+<br>
+<br>
+ 
+ 
+<p>Hi everyone~ this website is specially created for easy access to Emma's content. I'll do my best to keep this website as updated as possible !! </p>
+
+<p>This website is maintained by <a target="_blank" href="https://twitter.com/emmaltose">@emmaltose</a> If there are any issues feel free to DM me !! :] </p>
+
+<p>Thank you all for supporting <FONT COLOR="#F76AC3">Emma Song</FONT> ~~</p> 
+        
+<br>
+<br>
+
  
 
 <h2 id="CHOREOGRAPHY DANCE VIDEOS">CHOREOGRAPHY DANCE VIDEOS</h2>
