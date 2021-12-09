@@ -35,7 +35,7 @@
 
 **<FONT COLOR="#F76AC3">Emma Song Choreography</FONT>** 
   
-**<FONT COLOR="#F76AC3">Featuring Emma Song</FONT>**
+**<FONT COLOR="#F76AC3">Other Dance Videos</FONT>**
 
 <br>
 <br>
